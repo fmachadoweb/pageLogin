@@ -1,7 +1,7 @@
 ### Page Login
 <p>Pagina de login, baseada na aula do Markzuel </p>
 
-<p>Projeto feito por @franciscojoaopedro, fiz algumas modificações no css para o background preencher completamente a tela.</p>
+<p>Projeto feito por <a href="https://github.com/franciscojoaopedro/">@ranciscojoaopedro</a>, fiz algumas modificações no css para o background preencher completamente a tela.</p>
 
 <div>
 <a href="https://page-login-omega.vercel.app/">
